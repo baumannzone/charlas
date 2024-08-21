@@ -2,9 +2,9 @@
 
 Hola, soy Jorge Baumann.
 
-A veces doy charlas.
+A veces doy charlas en conferencias, meetups, eventos y mucho más. 
 
-Charlas en conferencias, meetups, eventos y mucho más, además de mi [plantilla](./plantilla.md) como speaker.
+Si te interesa tenerme como speaker en tu evento, lee esta [plantilla](./plantilla.md) de speaker.
 
 
 
