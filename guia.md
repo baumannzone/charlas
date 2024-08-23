@@ -2,7 +2,7 @@
 
 Antes de aceptar hablar en una conferencia, meetup, o evento, me gusta investigar para asegurarme de que se alinea con mis objetivos de inclusión y diversidad en la comunidad tecnológica.
 
-Me encanta dar charlas o talleres en eventos. Me siento privilegiado de ser elegido y quiero usar este privilegio para ayudar a que la comunidad tecnológica sea lo más inclusiva posible, donde todos se sientan representados.
+Me encanta dar charlas o talleres en eventos. Me siento privilegiado de ser elegido y quiero usar este privilegio para ayudar a que la comunidad tecnológica sea lo más inclusiva posible, donde todo el mundo se sienta representado.
 
 Si rechazo tu evento (incluso si cumples con todo lo siguiente), no lo tomes como algo personal, lo más probable es que sea porque necesito tomar un descanso.
 
